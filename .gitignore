@@ -10,4 +10,4 @@ wheels/
 .venv
 
 # SQLite DBs
-*.sqlite
+*.sqlite3
